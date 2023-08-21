@@ -76,8 +76,11 @@
 <br />
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/thecaptaan/thecaptaan/output/snake.svg" alt="Snake animation" />
+
+  ![Snake animation](https://github.com/thecaptaan/thecaptaan/blob/output/github-contribution-grid-snake.svg)
+
 </div>
+
 
 ## Connect With Me
 
