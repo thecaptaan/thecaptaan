@@ -10,11 +10,11 @@
 
 - 👯 I’m looking to collaborate on [100 Day DSA](https://github.com/thecaptaan/100-Day-DSA)
 
-- 👨‍💻 All of my projects are available at [https://thecaptaan.live](thecaptaan.live)
+- 👨‍💻 All of my projects are available at [https://thecaptaan.live](https://thecaptaan.live)
 
 - 💬 Ask me about **Backend Technologies**
 
-- 📄 Know about my experiences [https://thecaptaan.live#resume](thecaptaan.livea#resume)
+- 📄 Know about my experiences [https://thecaptaan.live#resume](https://thecaptaan.livea#resume)
 
 <h3 align="left">My Stats:</h3>
 <p align="left">
