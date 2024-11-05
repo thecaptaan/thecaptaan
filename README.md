@@ -2,10 +2,8 @@
 <img src="https://komarev.com/ghpvc/?username=thecaptaan&&style=flat-square" align="center" />
 </div>  
 
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
+<br />
+
 # <div align="center">THE CAPTAAN | AYUSH ANAND</div>  
   
 - 🔭 I’m currently working on [Lemuria OS](https://github.com/lemuriaos)  
